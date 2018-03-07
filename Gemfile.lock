@@ -11,8 +11,8 @@ GEM
   specs:
     builder (3.2.2)
     puma (3.4.0)
-    rack (1.6.4)
-    rack-protection (1.5.3)
+    rack (1.6.9)
+    rack-protection (1.5.5)
       rack
     sinatra (1.4.7)
       rack (~> 1.5)
@@ -28,4 +28,4 @@ DEPENDENCIES
   puma
 
 BUNDLED WITH
-   1.13.6
+   1.15.4
